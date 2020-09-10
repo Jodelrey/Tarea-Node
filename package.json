@@ -1,0 +1,18 @@
+{
+  "name": "clase-2",
+  "version": "1.0.0",
+  "description": "tarea clase 2 node ADA",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jo del Rey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
